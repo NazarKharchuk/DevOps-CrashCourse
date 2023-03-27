@@ -1,2 +1,2 @@
 # DevOps Crash Course Lab
-Nazarii Kharchuk
+<i>Nazarii Kharchuk</i>
